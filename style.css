@@ -5,13 +5,16 @@ header{
 
 main {
     float: left;
-    inline-size: inline-block;
+    display: block;
     width: 100px;
     height: 100px;
     padding: 5px;
 }
 .column {
     float: left;
-    width: 50%;
-  }
+    width: 33%;
+}
 
+nav{
+    color: red;
+}
